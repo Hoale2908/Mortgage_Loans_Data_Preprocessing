@@ -1,6 +1,8 @@
 # Mortgage Loans Data Preprocessing  
 
-This project focuses on preprocessing a dataset of 150,000 mortgage loan applications from 2019. The goal is to clean the data, handle missing values, and detect outliers to prepare it for predictive modeling and analysis.  
+This project focuses on preprocessing a dataset of 150,000 mortgage loan applications from 2019. The goal is to clean the data, handle missing values, and detect outliers to prepare it for predictive modeling and analysis.
+
+To view the notebook, [click here](https://github.com/Hoale2908/Mortgage_Loans_Data_Preprocessing/blob/main/code.ipynb).
 
 ## Features  
 - **Data Cleaning:** Removed noisy and irrelevant data to enhance dataset quality.  
