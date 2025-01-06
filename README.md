@@ -16,7 +16,7 @@ To view the notebook, [click here](https://github.com/Hoale2908/Mortgage_Loans_D
 - **Matplotlib, Seaborn:** For data visualization.  
 
 ## Dataset  
-The dataset contains information on mortgage loan applications from 2019. It includes 32 features.
+The dataset contains information on mortgage loan applications from 2019. It includes 32 features and can be downloaded from [Kaggle](https://www.kaggle.com/datasets/yasserh/loan-default-dataset).
 
 ## Future Enhancements  
 - Implement additional preprocessing techniques for more complex datasets.  
