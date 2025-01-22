@@ -23,4 +23,4 @@ The dataset contains information on mortgage loan applications from 2019. It inc
 - Integrate machine learning models for predictive analysis.  
 
 ## Contact  
-For questions or collaboration, feel free to reach out at [hoa.letp@gmail.com](mailto:hoa.letp@gmail.com).  
+Email: [hoa.letp@gmail.com](mailto:hoa.letp@gmail.com).  
